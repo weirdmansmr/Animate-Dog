@@ -1,0 +1,27 @@
+body {
+    background-color: #000;
+}
+
+.container {
+    position: absolute;
+    width: 800px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+}
+
+#canvas2 {
+    position: relative;
+    border: 3px solid #FFF;
+    width: 800px;
+    height: 700px;
+}
+
+#slider {
+    width: 100%;
+}
+
+p {
+    color: #FFF;
+}
